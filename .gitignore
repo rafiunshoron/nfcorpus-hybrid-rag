@@ -11,8 +11,6 @@ __pycache__/
 .pytest_cache/
 *.egg-info/
 
-# Local dataset
-data/raw/
 
 # Raw evaluation outputs
 evaluation_*.txt
