@@ -179,6 +179,6 @@ This is an information-retrieval engineering project, not a medical device or a 
 
 **Built with Python, PostgreSQL, pgvector and Groq**
 
-Made by **[Your Name](https://github.com/YOUR_USERNAME)**
+
 
 </div>
