@@ -1,0 +1,30 @@
+# Secrets
+.env
+
+# Virtual environments
+.venv/
+venv/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+
+# Local dataset
+data/raw/
+
+# Raw evaluation outputs
+evaluation_*.txt
+fusion_experiment_*.txt
+
+# Editors
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
